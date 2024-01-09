@@ -10,7 +10,7 @@
 
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/mahtoanjali"><img alt="Website" src="https://img.shields.io/badge/𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚"></a>
+  <a href="https://github.com/mahtoanjali"><img alt="Website" src="https://img.shields.io/badge/𓆩 ᴍᴧʜᴛᴏ ✗ ᴧɴᴊᴀʟɪ 𓆪"></a>
  
 [![MISS QUEEN ](https://img.shields.io/github.com/mahtoanjali/ANJALI-STRING-SESSION?style=social)](https://github.com/mahtoanjali/ANJALI-STRING-SESSION/stargazers)
   [![Forks](https://img.shields.io/github/forks/mahtoanjali/ANJALI-STRING-SESSION?style=social)](https://github.com/mahtoanjali/ANJALI-STRING-SESSION/fork)
@@ -38,7 +38,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/AnjaliStringSessionGeneratorBot)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/AnjalixSessionBot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
